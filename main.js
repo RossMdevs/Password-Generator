@@ -9,5 +9,5 @@ app.get("/", (req, res) => {
 });
 console.log("---------------------")
 console.log("Secure Password Generator 1.0 | Created by Ross & Intel ")
-app.listen(port, () => console.log(`Listening on ${port}!`))
+app.listen(port, () => console.log(`Listening on http://localhost:${port}!`))
 
