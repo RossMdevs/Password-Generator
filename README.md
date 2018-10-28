@@ -32,4 +32,4 @@ Secure Password Generator (LOCALHOSTED)
 
 This page will be moved to the wiki BY THE END OF THE DAY
 ====
-page moved to WIKI [HERE](https://github.com/RossMdevs/Password-Gen-Localhost/wiki/Old-Build-Tutorial)
+page moved to wiki [here](https://github.com/RossMdevs/Password-Gen-Localhost/wiki/Old-Build-Tutorial), to prevent cluster!
