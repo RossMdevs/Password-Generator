@@ -16,6 +16,7 @@ Secure Password Generator | Web-Based Version!
 * A little bit of @pyxelx help!
 * JS: interpreted programming language.
 * Console Logging: Sends messages to the console to identify information (Ports, Build Info etc.)
+
 Behind the scenes in our private build! (Not in stable builds)
 ======
 
