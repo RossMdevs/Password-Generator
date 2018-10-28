@@ -8,7 +8,7 @@ Secure Password Generator (LOCALHOSTED)
 
 # The magic behind PasswordGen
 * ExpressJS : Fast, unopinionated, minimalist web framework for Node.js
-* NODEJS: an open-source, cross-platform JavaScript run-time environment
+* Node.js: an open-source, cross-platform JavaScript run-time environment
 * Electron: an open-source framework developed and maintained by GitHub
 * HTML: Front-End Design Code
 * Ports: Magic :) we know!
