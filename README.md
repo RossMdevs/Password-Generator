@@ -4,7 +4,7 @@
 Secure Password Generator | Web-Based Version!
 ======
 
-#### Last Updated: ``Oct, 28 2018``
+#### Last Updated: ``Oct 28, 2018``
 
 # The magic behind PasswordGen
 * ExpressJS : Fast, unopinionated, minimalist web framework for Node.js
