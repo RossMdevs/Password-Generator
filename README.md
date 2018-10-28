@@ -10,6 +10,7 @@ Secure Password Generator | Web-Based Version!
 * ExpressJS : Fast, unopinionated, minimalist web framework for Node.js
 * Node.js: an open-source, cross-platform JavaScript run-time environment
 * Electron: an open-source framework developed and maintained by GitHub
+* OPN: Client Side File/App Execution (Opens Files/Browsers)! 
 * HTML: Front-End Design Code
 * Ports: Magic :) we know!
 * A little bit of @pyxelx help!
