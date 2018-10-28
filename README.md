@@ -1,7 +1,7 @@
 ###### Looking for Cloud Hosted Version?
 ###### [Coming soon!](#)
 
-Secure Password Generator (LOCALHOSTED)
+Secure Password Generator | Web-Based Version!
 ======
 
 #### Last Updated: ``Oct, 28 2018``
