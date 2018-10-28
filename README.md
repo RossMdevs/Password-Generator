@@ -24,12 +24,19 @@ Secure Password Generator | Web-Based Version!
 # How to install
 
 * Download Master.zip (Asset Files + Main Launcher Files)
-* Extract to your desktop
-* Right click folder and ``git bash here``
-* run ``npm i``
-* now run ``node main.js``
+* Extract the files to your desktop
+* Right click folder and click ``git bash here``
+* run ``npm i`` (Will install all required modules``
+* now run ``node main.js`` or ``npm start``
 * Finally, visit http://localhost:3000
 
+##### The console should say: 
+``---------------------
+
+Secure Password Generator 1.0 | Created by Ross & Intel
+Opening in browser now
+Press CONTROL + C to terminate session!
+Listening on http://localhost:3000``
 
 This page will be moved to the wiki BY THE END OF THE DAY
 ====
