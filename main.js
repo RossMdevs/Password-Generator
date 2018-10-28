@@ -13,7 +13,8 @@ app.get("/", (req, res) => {
     res.sendFile(__dirname + "index.html");
 });
 console.log("---------------------")
-console.info()
+console.info() // Spacer
 console.log("Secure Password Generator 1.0 | Created by Ross & Intel ")
 app.listen(port, () => console.log(`Listening on ${port}!`))
-console.log("Press CONTROL + C to terminate session!")
+
+console.log("Press CONTROL + C to terminate session!") // This should place after line 18, but appears before line 18 on line 17!
