@@ -31,12 +31,12 @@ Secure Password Generator | Web-Based Version!
 * Finally, visit http://localhost:3000
 
 ##### The console should say: 
-``---------------------
+---------------------
 
 Secure Password Generator 1.0 | Created by Ross & Intel
 Opening in browser now
 Press CONTROL + C to terminate session!
-Listening on http://localhost:3000``
+Listening on http://localhost:3000
 
 This page will be moved to the wiki BY THE END OF THE DAY
 ====
