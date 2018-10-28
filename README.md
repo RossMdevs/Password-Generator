@@ -6,7 +6,7 @@ Secure Password Generator | Web-Based Version!
 
 #### Last Updated: ``Oct 28, 2018``
 
-# The magic behind PasswordGen
+# What PasswordGen uses
 * ExpressJS : Fast, unopinionated, minimalist web framework for Node.js
 * Node.js: an open-source, cross-platform JavaScript run-time environment
 * ~~Electron: an open-source framework developed and maintained by GitHub~~
@@ -15,11 +15,11 @@ Secure Password Generator | Web-Based Version!
 * Ports: Magic :) we know!
 * A little bit of @pyxelx help!
 * JS: interpreted programming language.
-
-Specialty Dev Magic (Not in stable builds)
+* Console Logging: Sends messages to the console to identify information (Ports, Build Info etc.)
+Behind the scenes in our private build! (Not in stable builds)
 ======
 
-* Connect-Flash: special area of the session used for storing messages
+* Connect-Flash: Message Store (Sends messages to the console like alerts)
 * Express-session: N/A
 * Body-parser: Parses HTML Body Requests
 * Cookie-parser: Stores Cookies
