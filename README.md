@@ -15,6 +15,13 @@ Secure Password Generator | Web-Based Version!
 * Ports: Magic :) we know!
 * A little bit of @pyxelx help!
 * JS: interpreted programming language.
+* express
+* connect-flash
+* express-session
+* body-parser
+* cookie-parser
+* passport
+* passport-local
 
  # What you'll need
  
