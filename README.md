@@ -20,11 +20,11 @@ Specialty Dev Magic (Not in stable builds)
 ======
 
 * Connect-Flash: special area of the session used for storing messages
-* express-session
-* body-parser
-* cookie-parser
-* passport
-* passport-local
+* Express-session: N/A
+* Body-parser: Parses HTML Body Requests
+* Cookie-parser: Stores Cookies
+* Passport: Server side login management
+* Passport-local: Client side login managment
 
  # What you'll need
  
