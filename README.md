@@ -15,8 +15,11 @@ Secure Password Generator | Web-Based Version!
 * Ports: Magic :) we know!
 * A little bit of @pyxelx help!
 * JS: interpreted programming language.
-* express
-* connect-flash
+
+Specialty Dev Magic (Not in stable builds)
+======
+
+* Connect-Flash: special area of the session used for storing messages
 * express-session
 * body-parser
 * cookie-parser
