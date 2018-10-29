@@ -28,7 +28,9 @@ Behind the scenes in our private build! (Not in stable builds)
 
  # What you'll need
  
- * [GitBash](https://git-scm.com/)
+ * ~~[GitBash](https://git-scm.com/)~~
+  #### Not needed for latest builds (Installer attached!)
+ * [NodeJS](https://nodejs.org/en/)
  
 
 # How to install
