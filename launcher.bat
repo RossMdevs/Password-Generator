@@ -1,4 +1,6 @@
 Echo off
+title Password Gen V1.0
+color 4
 cls
 Echo Password Generator Launcher V1.0
 Echo ============================================================================
