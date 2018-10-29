@@ -10,11 +10,11 @@ Secure Password Generator | Web-Based Version!
 * ExpressJS : Fast, unopinionated, minimalist web framework for Node.js
 * Node.js: an open-source, cross-platform JavaScript run-time environment
 * ~~Electron: an open-source framework developed and maintained by GitHub~~
-* OPN: Client Side File/App Execution (Opens Files/Browsers)! 
+* OPN: Client Side File/App Execution
 * HTML: Front-End Design Code
 * Ports: Magic :) we know!
 * A little bit of @pyxelx help!
-* JS: interpreted programming language.
+* JS: interpreted programming language
 * Console Logging: Sends messages to the console to identify information (Ports, Build Info etc.)
 
 Behind the scenes in our private build! (Not in stable builds)
