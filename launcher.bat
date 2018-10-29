@@ -1,12 +1,21 @@
-@echo off
+Echo off
+cls
+Echo Password Generator Launcher V1.0
+Echo ============================================================================
+Echo 1 Launch Generator            Launches Gen on [PORT Specified]
+Echo 2 Exit Launcher/Close         Closes this menu
+Echo ============================================================================
+Choice /C 12 /M "Select a choice below"
 
-title Passwordgen Launcher
+If Errorlevel 2 Goto 2
+If Errorlevel 1 Goto 1
 
-echo Launcher for Password Gen V.1
+Goto End
 
-echo This launcher is only a prototype
+:2
+Goto End
 
-pause
-
+:1
 node main.js
-
+pause
+:End
