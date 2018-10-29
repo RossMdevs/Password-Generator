@@ -21,11 +21,10 @@ Behind the scenes in our private build! (Not in stable builds)
 ======
 
 * Connect-Flash: Message Store (Sends messages to the console like alerts)
-* Express-session: N/A
 * Body-parser: Parses HTML Body Requests
 * Cookie-parser: Stores Cookies
-* Passport: Server side login management
-* Passport-local: Client side login managment
+* ~~Passport: Server side login management
+* ~~Passport-local: Client side login managment
 
  # What you'll need
  
