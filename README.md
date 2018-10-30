@@ -1,5 +1,7 @@
 ###### Looking for Cloud Hosted Version?
 ###### [Coming soon!](#)
+Window Based .EXE coming soon!
+====
 
 Secure Password Generator | Web-Based Version!
 ======
@@ -52,6 +54,6 @@ Press CONTROL + C to terminate session!
 <br/>
 Listening on http://localhost:3000
 
-This page will be moved to the wiki BY THE END OF THE DAY
+Old README.md Archived here! Due to newer builds
 ====
 page moved to wiki [here](https://github.com/RossMdevs/Password-Gen-Localhost/wiki/Old-Build-Tutorial), to prevent cluster!
