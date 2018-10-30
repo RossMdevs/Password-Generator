@@ -30,7 +30,7 @@ Behind the scenes in our private build! (Not in stable builds)
  
  * ~~[GitBash](https://git-scm.com/)~~
  
- * [NodeJS](https://nodejs.org/en/)
+ * [NodeJS](https://nodejs.org/en/) **REQUIRED FOR ``NPM I`` TO WORK**
  
 
 # How to install
