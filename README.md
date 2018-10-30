@@ -1,6 +1,5 @@
-###### Looking for Cloud Hosted Version?
-###### [Coming soon!](#)
-Window Based .EXE coming soon!
+###### ~~Looking for Cloud Hosted Version?~~
+###### ~~[Coming soon!](#)~~
 ====
 
 Secure Password Generator | Web-Based Version!
