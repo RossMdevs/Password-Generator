@@ -38,10 +38,16 @@ Behind the scenes in our private build! (Not in stable builds)
 
 * Download Master.zip (Asset Files + Main Launcher Files)
 * Extract the files to your desktop
-* Right click folder and click ``git bash here``
-* run ``npm i`` (Will install all required modules``
-* now run ``node main.js`` or ``npm start``
-* Finally, visit http://localhost:3000
+* Open `launcher.bat` and start from 1 and proceed to the bottom!
+
+** Shall you encounter errors open a ISSUE in the ISSUE tab!
+
+ OLD BUILDS ONLY
+======
+* ~~Right click folder and click ``git bash here``~~
+* ~~run ``npm i`` (Will install all required modules``~~
+* ~~now run ``node main.js`` or ``npm start``~~
+* ~~Finally, visit http://localhost:3000~~
 
 ##### The console should say: 
 
