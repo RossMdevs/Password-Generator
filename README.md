@@ -5,7 +5,8 @@
 Secure Password Generator | Web-Based Version!
 ======
 
-#### Last Updated: ``Oct 28, 2018``
+#### Last Updated: ``Nov 7, 2018``
+#### Added: Support for Newer Lauch builds
 
 # What PasswordGen uses
 * ExpressJS : Fast, unopinionated, minimalist web framework for Node.js
