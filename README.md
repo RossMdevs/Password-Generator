@@ -1,5 +1,5 @@
-###### ~~Looking for Cloud Hosted Version?~~
-###### ~~[Coming soon!](#)~~
+###### Looking for Cloud Hosted Version?
+###### [Coming soon! (PAGE AVALIABLE NOW)](https://password-gen-cloud-hosted.ml)
 ====
 
 Secure Password Generator | Web-Based Version!
