@@ -1,8 +1,6 @@
 :warning:  Notice from Repo Creator :warning:
 ======
-This page will be going private Dec 1, 2018! As we are releasing it on [@orgrossmdevs](https://github.com/orgrossmdevs)
-
-
+This repo will be going private Dec 1, 2018! As we are releasing it on [@orgrossmdevs](https://github.com/orgrossmdevs)
 
 ###### Looking for Cloud Hosted Version?
 ###### [Coming soon! (PAGE AVALIABLE NOW)](https://password-gen-cloud-hosted.ml)
