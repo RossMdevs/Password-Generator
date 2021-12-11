@@ -7,7 +7,7 @@ Echo ===========================================================================
 Echo 1 Install  Modules            Installs Required modules to load app!  (AFTER INSTALL RELAUNCH APP)          
 Echo 2 Download NODEJS             Downloads NODEJS (Windows/Default Browser)
 Echo 3 Launch Generator            Launches Gen on [PORT Specified]
-Echo 3 Exit Launcher/Close         Closes this menu
+Echo 4 Update                      Update the core files
 Echo ============================================================================
 Choice /C 1234 /M "Select a choice below"
 
@@ -20,6 +20,7 @@ Goto End
 
 
 :4
+npm update
 :End
 
 :3
