@@ -4,13 +4,13 @@
   "description": "Secure PassWord Generator for windows",
   "main": "main.js",
   "dependencies": {
-    "express": "^4.16.4",
-    "opn": "^5.4.0",
+    "express": "^4.17.1",
+    "opn": "^6.0.0",
     "vhost": "^3.0.2"
   },
   "devDependencies": {
-    "electron": "^2.0.3",
-    "electron-winstaller": "^2.6.4"
+    "electron": "^16.0.4",
+    "electron-winstaller": "^5.0.0"
   },
   "scripts": {
     "start": "electron .",
