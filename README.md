@@ -1,9 +1,9 @@
 Hacktoberfest. 
-Secure Password Generator | Web-Based Version!
-======
-##### This build has not been touched since before Jan 1st, 2019 so there may be dependability issues.
 
-#### Last Updated: ``Sept 30th, 2020``
+Open-source, highly-customizable pass-gen  | Web-Based Version!
+======
+
+#### Last Updated: ``Dec 10th, 2021``
 #### Configured: Moved code from GitHub to BitBucket & Small Grammatical Fixes
 
 # What PasswordGen uses
